@@ -18,6 +18,9 @@ This repository contains a simple and elegant mini calendar created using HTML, 
 [TRY NOW!](https://qyuzet.github.io/js-mini-calendar/).
 
 
+![image](https://github.com/user-attachments/assets/42539f48-e202-4e06-adf9-56298de3de41)
+
+
 ## Features
 
 - **Current Date Display:** Shows the current date, day of the week, month, and year.
